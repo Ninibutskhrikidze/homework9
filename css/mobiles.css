@@ -1,0 +1,34 @@
+/* 768px-374px */
+@media (max-width:769px) {
+
+  /* header */
+  header {
+    padding-inline: 14px;
+  }
+
+  .header_nav {
+    display: none;
+  }
+
+  .burger {
+    display: block;
+  }
+
+  .fa-solid {
+    font-size: 32px;
+  }
+
+  /* section1 */
+  .section1 {
+    padding-inline: 14px;
+    height: 431px;
+  }
+  .title1{
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .text1{
+    font-size: 14px;
+    line-height: 22px;
+  }
+}

@@ -1,0 +1,12 @@
+/* 834px-7668px */
+@media (max-width:835px){
+  /* header */
+  header{
+    padding-inline: 67px;
+  }
+    /* section1 */
+    .section1{
+      padding-inline: 67px;
+      height: 438px;
+    }
+}
